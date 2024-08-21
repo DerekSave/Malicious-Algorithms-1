@@ -1,0 +1,3 @@
+pwd
+ls
+sudo su
